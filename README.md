@@ -4,8 +4,8 @@
 
 
 - 🔭 I’m a Software Engineering Student at York University.
-- 🌱 I’m currently learning Java
-- 📫 I'm aware of the programming languages C++, MATLAB, SQL and Python.
+- 🌱 I’m currently learning advance Java.
+- 📫 I'm aware of the programming languages C++, MATLAB, SQL,Java and Python.
 
 <b><br> Connect With Me:
 
