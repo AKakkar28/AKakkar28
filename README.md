@@ -1,7 +1,5 @@
 ### Hi there, My name is Akarshan Kakkar 👋
 
-<!--
-**AKakkar28/AKakkar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -9,5 +7,7 @@
 - 🌱 I’m currently learning Java
 - 📫 I'm aware of the programming languages C++, MATLAB, SQL and Python.
 
-Connect With Me:
-![Linkedin-Logo](https://user-images.githubusercontent.com/90641977/162671635-277965d0-9ad9-4fb8-9c6e-3ae5fb1ae7b2.png)
+<b><br> Connect With Me:
+
+
+<figure class="wp-block-image size-large is-resized"><a href="https://www.linkedin.com/in/akarshankakkar" target="_blank" rel=" noreferrer noopener"><img src="https://user-images.githubusercontent.com/90641977/162672518-aecec25b-db02-420a-9f40-b738d68c9eb2.png?w=1024" alt="" class="wp-image-38" width="130" height="85"/></a></figure>
